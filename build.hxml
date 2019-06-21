@@ -1,0 +1,4 @@
+-lib hlsdl
+-hl output.hl
+-main Main
+-D hl_ver=1.9.0
