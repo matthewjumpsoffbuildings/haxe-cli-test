@@ -1,4 +1,2 @@
--lib hlsdl
--hl output.hl
+-neko output.n
 -main Main
--D hl_ver=1.9.0
